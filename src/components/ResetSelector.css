@@ -1,11 +1,11 @@
 /* src/components/ResetSelector.css */
-.reset-selector {
-  margin: 20px;
-  text-align: center;
-}
-
-.resets-title {
-  margin-top: -15px; /* Diminua o espaçamento do título */
+.container {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #dddcdc;
+  margin: 20px auto; /* Centraliza o container */
+  max-width: 800px; /* Define uma largura máxima */
 }
 
 .selector-and-details {
@@ -79,5 +79,4 @@
   font-size: 16px;
   color: #333;
   font-weight: bold;
-
 }

@@ -1,11 +1,11 @@
 /* src/components/PrinterSelector.css */
-.printer-selector {
-  margin: 20px;
-  text-align: center;
-}
-
-.drivers-title {
-  margin-top: -15px; /* Diminua o espaçamento do título */
+.container {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #dddcdc;
+  margin: 20px auto; /* Centraliza o container */
+  max-width: 800px; /* Define uma largura máxima */
 }
 
 .selector-and-details {
