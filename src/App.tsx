@@ -13,6 +13,7 @@ const App: React.FC = () => {
           <nav>
             <Link to="/">Drivers</Link>
             <Link to="/resets">Resets</Link>
+            <a href="https://testedeimpressao.netlify.app/" target="_blank" rel="noopener noreferrer">Teste de Impressão</a>
           </nav>
         </header>
         <main>
