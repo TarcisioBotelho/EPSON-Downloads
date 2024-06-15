@@ -4,8 +4,8 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
   background-color: #dddcdc;
-  margin: 20px auto; /* Centraliza o container */
-  max-width: 800px; /* Define uma largura máxima */
+  margin: 20px auto;
+  max-width: 800px;
 }
 
 .selector-and-details {
@@ -25,19 +25,19 @@
 }
 
 .reset-title {
-  margin: 0; /* Remove default margin */
-  align-self: flex-start; /* Align title to the top */
+  margin: 0;
+  align-self: flex-start;
 }
 
 .image-container {
-  width: 250px; /* Defina o tamanho fixo desejado */
-  height: 250px; /* Defina o tamanho fixo desejado */
+  width: 250px;
+  height: 250px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 auto; /* Centraliza o contêiner */
-  border: 0px solid #ccc; /* Opcional: adicione uma borda para visualização */
-  padding: 10px; /* Opcional: adicione padding para espaçamento interno */
+  margin: 0 auto;
+  border: 0px solid #ccc;
+  padding: 10px;
 }
 
 .image-container img {

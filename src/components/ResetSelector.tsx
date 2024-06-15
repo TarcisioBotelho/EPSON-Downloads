@@ -1,4 +1,3 @@
-// src/components/ResetSelector.tsx
 import React, { useState, useEffect } from 'react';
 import { resets, Reset } from '../data/resets';
 import './ResetSelector.css';

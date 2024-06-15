@@ -1,4 +1,3 @@
-// src/components/PrinterSelector.tsx
 import React, { useState, useEffect } from 'react';
 import { printers, Printer } from '../data/printers';
 import './PrinterSelector.css';
