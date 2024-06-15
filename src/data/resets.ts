@@ -55,7 +55,7 @@ export const resets: Reset[] = [
     {
         name: 'Epson L3110',
         image: reset7,
-        download: 'ttps://www.mediafire.com/file/dsifxnky13nak7w/Reset_L3100-L3101-L3110-L3150.rar/file',
+        download: 'https://www.mediafire.com/file/dsifxnky13nak7w/Reset_L3100-L3101-L3110-L3150.rar/file',
     },
     {
         name: 'Epson L3150',
